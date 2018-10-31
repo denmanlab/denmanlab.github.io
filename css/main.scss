@@ -194,20 +194,6 @@ $baseurl: '{{ site.baseurl }}/images';
 			margin: (_size(element-margin) * 2.25) 0;
 		}
 	}
-	
-	.wrapper {
-	  column-count: 1;
-	  column-gap: 50px;
-	  padding: 5px;
-	}
-	
-	p {
-	  line-height: 1.6; 
-	  font-family: Helvetica;
-	  text-align: justify;
-	  margin: 0;
-	  font-size: 14px;
-	}
 
   article .inner {
   	/*
@@ -686,6 +672,20 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	.image_wrapper {
+	  column-count: 1;
+	  column-gap: 50px;
+	  padding: 5px;
+	}
+	
+	p2 {
+	  line-height: 1.6; 
+	  font-family: Helvetica;
+	  text-align: justify;
+	  margin: 0;
+	  font-size: 14px;
+	}
+	
 /* Image */
 
 	.image {
