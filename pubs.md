@@ -77,12 +77,6 @@ background-image: Figure 3_formatted.png
 <span>_Proceedings of the National Academy of Sciences of the United States of America_, Jan. 2016</span>{:.journal}  
 <span>**DOI:** [10.1073/pnas.1512901113](https://dx.doi.org/10.1073/pnas.1512901113)</span>{:.doi}  
 
-{:.paper}
-<span>Ultracompact optoflex neural probes for high-resolution electrophysiology and optogenetic stimulation</span>{:.papertitle}  
-<span>M. Chamanzar, **D. Denman**, T. Blanche, and M. Maharbiz</span>{:.authors}  
-<span>Proceedings of the IEEE International Conference on Micro Electro Mechanical Systems (MEMS), Jan. 2015</span>{:.journal}  
-<span>**DOI:** [10.1109/MEMSYS.2015.7051049](https://dx.doi.org/10.1109/MEMSYS.2015.7051049)</span>{:.doi}  
-
 {:.year}
 ### 2015
 
@@ -103,6 +97,12 @@ background-image: Figure 3_formatted.png
 <span>**D.J. Denman** and D. Contreras</span>{:.authors}  
 <span>_Journal of Neuroscience_, vol. 35, no. 25, pp. 9265--9280, Jan. 2015</span>{:.journal}  
 <span>**DOI:** [10.1523/JNEUROSCI.0027-15.2015](https://dx.doi.org/10.1523/JNEUROSCI.0027-15.2015)</span>{:.doi}  
+
+{:.paper}
+<span>Ultracompact optoflex neural probes for high-resolution electrophysiology and optogenetic stimulation</span>{:.papertitle}  
+<span>M. Chamanzar, **D. Denman**, T. Blanche, and M. Maharbiz</span>{:.authors}  
+<span>Proceedings of the IEEE International Conference on Micro Electro Mechanical Systems (MEMS), Jan. 2015</span>{:.journal}  
+<span>**DOI:** [10.1109/MEMSYS.2015.7051049](https://dx.doi.org/10.1109/MEMSYS.2015.7051049)</span>{:.doi}  
 
 {:.year}
 ### 2014
