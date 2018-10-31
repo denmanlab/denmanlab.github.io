@@ -685,6 +685,20 @@ $baseurl: '{{ site.baseurl }}/images';
 	  margin: 0;
 	  font-size: 14px;
 	}
+	.bio_img_l {
+	  float: left;
+	  width: 125;
+	  shape-margin:20px;
+	  margin-right: 20px;
+	  margin-bottom: 20px;
+	}
+	.bio_img_r {
+	  float: right;
+	  width: 125;
+	  shape-margin:20px;
+	  margin-right: 20px;
+	  margin-bottom: 20px;
+	}
 	
 /* Image */
 
