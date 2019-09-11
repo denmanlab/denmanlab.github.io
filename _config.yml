@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title:  The neural mechanisms of visual perception
-  text: We are interested in how populations of neurons generate sensory perceptions. We use quantitative psychophysics, *in vivo* electrophysiology, *in vivo* imaging, circuit tracing, and computational methods to study the dynamics of populations of single neurons. We are also focused on how neural interactions specifically - within areas and distributed across the brain - generate successful perceptions.<br/>**Opened September 2019, contact us if you are interested in joining!**<br/>Denman Lab on Open Science Framework
+  text: We are interested in how populations of neurons generate sensory perceptions. We use quantitative psychophysics, *in vivo* electrophysiology, *in vivo* imaging, circuit tracing, and computational methods to study the dynamics of populations of single neurons. We are also focused on how neural interactions specifically - within areas and distributed across the brain - generate successful perceptions.\**Opened September 2019, contact us if you are interested in joining!**\[Denman Lab on Open Science Framework](https://osf.io/szch3/)
 # - displayed at the bottom
 closing-head: Opening September 2019
 closing-para: 
