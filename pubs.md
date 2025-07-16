@@ -6,8 +6,65 @@ excerpt:
 image: tracks.png#jun_f3clip.png
 background-image: Figure 3_formatted.png
 ---
-<h2>Past Work</h2>
 
+{:.year}
+### 2025
+{:.paper}
+<span>A bioelectric router for adaptive isochronous neurostimulation enables multipolar bioelectric stimulation from a single source</span>{:.papertitle}  
+<span>Sahai E, Hickman J, Denman DJ.</span>{:.authors}  
+<span>Sci Rep. 2025 Jul 4;15(1)</span>{:.journal}  
+<span>**DOI:** [10.1038/s41598-025-07568-4.](https://www.nature.com/articles/s41598-025-07568-4)</span>{:.doi}  
+
+{:.paper}
+<span>Incomplete remyelination via therapeutically enhanced oligodendrogenesis is sufficient to recover visual cortical function</span>{:.papertitle}  
+<span>**D. Denman**, R.C. Reid</span>{:.authors}  
+<span>Nat Commun 16, 732 (2025)</span>{:.journal}  
+<span>**DOI:** [10.1038/s41467-025-56092-6](https://www.nature.com/articles/s41467-025-56092-6#article-info)</span>{:.doi}  
+
+{:.paper}
+<span>Deciphering neuronal variability across states reveals dynamic sensory encoding</span>{:.papertitle}  
+<span>Akella S, Ledochowitsch P, Siegle JH, Belski H, *Denman DD*, Buice MA, Durand S, Koch C, Olsen SR, Jia X.</span>{:.authors}  
+<span>Nat Commun. 2025 Feb 19;16(1):1768</span>{:.journal}  
+<span>**DOI:** [10.1038/s41467-025-56733-w](https://www.nature.com/articles/s41467-025-56733-w)</span>{:.doi}  
+
+### 2024
+
+{:.paper}
+<span>A fully automatic multichannel neural spike sorting algorithm with spike reduction and positional feature</span>{:.papertitle}  
+<span>Mohammadi Z, **Denman DJ**, Klug A, Lei TC</span>{:.authors}  
+<span>J Neural Eng. 2024 Aug 5;21(4):046039</span>{:.journal}  
+<span>**DOI:** [10.1088/1741-2552/ad647d](https://iopscience.iop.org/article/10.1088/1741-2552/ad647d)</span>{:.doi}  
+
+{:.paper}
+<span>Subthalamic nucleus synchronization between beta band local field potential and single-unit activity in Parkinson's disease</span>{:.papertitle}  
+<span>Bayman E, Chee K, Mendlen M, **Denman DJ**, Tien RN, Ojemann S, Kramer DR, Thompson JA.</span>{:.authors}  
+<span>Physiol Rep. 2024 May;12(9):e16001</span>{:.journal}  
+<span>**DOI:** [10.14814/phy2.16001](https://physoc.onlinelibrary.wiley.com/doi/10.14814/phy2.16001)</span>{:.doi}  
+
+### 2021
+
+{:.paper}
+<span>Survey of spiking in the mouse visual system reveals functional hierarchy</span>{:.papertitle}  
+<span>Siegle JH, Jia X, Durand S, Gale S, Bennett C, Graddis N, Heller G, Ramirez TK, Choi H, Luviano JA, Groblewski PA, Ahmed R, Arkhipov A, Bernard A, Billeh YN, Brown D, Buice MA, Cain N, Caldejon S, Casal L, Cho A, Chvilicek M, Cox TC, Dai K, **Denman DJ**, de Vries SEJ, Dietzman R, Esposito L, Farrell C, Feng D, Galbraith J, Garrett M, Gelfand EC, Hancock N, Harris JA, Howard R, Hu B, Hytnen R, Iyer R, Jessett E, Johnson K, Kato I, Kiggins J, Lambert S, Lecoq J, Ledochowitsch P, Lee JH, Leon A, Li Y, Liang E, Long F, Mace K, Melchior J, Millman D, Mollenkopf T, Nayan C, Ng L, Ngo K, Nguyen T, Nicovich PR, North K, Ocker GK, Ollerenshaw D, Oliver M, Pachitariu M, Perkins J, Reding M, Reid D, Robertson M, Ronellenfitch K, Seid S, Slaughterbeck C, Stoecklin M, Sullivan D, Sutton B, Swapp J, Thompson C, Turner K, Wakeman W, Whitesell JD, Williams D, Williford A, Young R, Zeng H, Naylor S, Phillips JW, Reid RC, Mihalas S, Olsen SR, Koch C. </span>{:.authors}  
+<span> Nature. 2021 Apr;592(7852):86-92</span>{:.journal}  
+<span>**DOI:** [10.1038/s41586-020-03171-x](https://www.nature.com/articles/s41586-020-03171-x)</span>{:.doi}  
+
+{:.paper}
+<span>Reconciling functional differences in populations of neurons recorded with two-photon imaging and electrophysiology</span>{:.papertitle}  
+<span>Siegle JH, Ledochowitsch P, Jia X, Millman DJ, Ocker GK, Caldejon S, Casal L, Cho A, **Denman DJ**, Durand S, Groblewski PA, Heller G, Kato I, Kivikas S, Lecoq J, Nayan C, Ngo K, Nicovich PR, North K, Ramirez TK, Swapp J, Waughman X, Williford A, Olsen SR, Koch C, Buice MA, de Vries SE.</span>{:.authors}  
+<span>Elife. 2021 Jul 16;10:e69068.</span>{:.journal}  
+<span>**DOI:** [doi: 10.7554/eLife.69068](https://elifesciences.org/articles/69068)</span>{:.doi}  
+
+### 2019
+
+{:.paper}
+<span>Synergistic population encoding and precise coordinated variability across interlaminar ensembles in the early visual system</span>{:.papertitle}  
+<span>**D. Denman**, R.C. Reid</span>{:.authors}  
+<span>_bioRxiv_, pp. 812859, Oct. 2019</span>{:.journal}  
+<span>**DOI:** [10.1101/812859](https://www.biorxiv.org/content/10.1101/812859v1)</span>{:.doi}  
+
+
+<h2>Past Work</h2>
 {:.year}
 ### 2018
 
@@ -42,7 +99,7 @@ background-image: Figure 3_formatted.png
 <span>Mouse hue and wavelength-specific luminance contrast sensitivity are non-uniform across visual space.</span>{:.papertitle}  
 <span>**D.J. Denman**, J.A. Luviano, D.R. Ollerenshaw, S. Cross, D. Williams, M.A. Buice, S.R. Olsen, and R.C. Reid</span>{:.authors}  
 <span>_bioRxiv_, pp. 174631, Aug. 2017</span>{:.journal}  
-<span>**DOI:** [https://doi.org/10.1101/174631](https://dx.doi.org/https://doi.org/10.1101/174631)</span>{:.doi}  
+<span>**DOI:** [doi:10.1101/174631](https://dx.doi.org/doi:10.1101/174631)</span>{:.doi}  
 
 {:.paper}
 <span>From Maxwell's equations to the theory of current-source density analysis</span>{:.papertitle}  
