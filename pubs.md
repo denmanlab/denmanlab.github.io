@@ -11,19 +11,19 @@ background-image: Figure 3_formatted.png
 ### 2025
 {:.paper}
 <span>A bioelectric router for adaptive isochronous neurostimulation enables multipolar bioelectric stimulation from a single source</span>{:.papertitle}  
-<span>Sahai E, Hickman J, Denman DJ.</span>{:.authors}  
+<span>Sahai E, Hickman J, **Denman DJ**.</span>{:.authors}  
 <span>Sci Rep. 2025 Jul 4;15(1)</span>{:.journal}  
 <span>**DOI:** [10.1038/s41598-025-07568-4.](https://www.nature.com/articles/s41598-025-07568-4)</span>{:.doi}  
 
 {:.paper}
 <span>Incomplete remyelination via therapeutically enhanced oligodendrogenesis is sufficient to recover visual cortical function</span>{:.papertitle}  
-<span>**D. Denman**, R.C. Reid</span>{:.authors}  
+<span>Della-Flora Nunes G, Osso LA, Haynes JA, Conant L, Thornton MA, Stockton ME, Brassell KA, Morris A, Mancha Corchado YI, Gaynes JA, Chavez AR, Woerner MB, MacKenna DA, Alavi A, Danks A, Poleg-Polsky A, Gandhi R, Vivian JA, **Denman DJ***, Hughes EG*</span>{:.authors}  
 <span>Nat Commun 16, 732 (2025)</span>{:.journal}  
 <span>**DOI:** [10.1038/s41467-025-56092-6](https://www.nature.com/articles/s41467-025-56092-6#article-info)</span>{:.doi}  
 
 {:.paper}
 <span>Deciphering neuronal variability across states reveals dynamic sensory encoding</span>{:.papertitle}  
-<span>Akella S, Ledochowitsch P, Siegle JH, Belski H, *Denman DD*, Buice MA, Durand S, Koch C, Olsen SR, Jia X.</span>{:.authors}  
+<span>Akella S, Ledochowitsch P, Siegle JH, Belski H, **Denman DD**, Buice MA, Durand S, Koch C, Olsen SR, Jia X.</span>{:.authors}  
 <span>Nat Commun. 2025 Feb 19;16(1):1768</span>{:.journal}  
 <span>**DOI:** [10.1038/s41467-025-56733-w](https://www.nature.com/articles/s41467-025-56733-w)</span>{:.doi}  
 
