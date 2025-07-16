@@ -17,7 +17,7 @@ background-image: Figure 3_formatted.png
 
 {:.paper}
 <span>Incomplete remyelination via therapeutically enhanced oligodendrogenesis is sufficient to recover visual cortical function</span>{:.papertitle}  
-<span>Della-Flora Nunes G, Osso LA, Haynes JA, Conant L, Thornton MA, Stockton ME, Brassell KA, Morris A, Mancha Corchado YI, Gaynes JA, Chavez AR, Woerner MB, MacKenna DA, Alavi A, Danks A, Poleg-Polsky A, Gandhi R, Vivian JA, **Denman DJ***, Hughes EG*</span>{:.authors}  
+<span>Della-Flora Nunes G, Osso LA, Haynes JA, Conant L, Thornton MA, Stockton ME, Brassell KA, Morris A, Mancha Corchado YI, Gaynes JA, Chavez AR, Woerner MB, MacKenna DA, Alavi A, Danks A, Poleg-Polsky A, Gandhi R, Vivian JA, **Denman DJ1**, Hughes EG1    1 co-corresponding</span>{:.authors}  
 <span>Nat Commun 16, 732 (2025)</span>{:.journal}  
 <span>**DOI:** [10.1038/s41467-025-56092-6](https://www.nature.com/articles/s41467-025-56092-6#article-info)</span>{:.doi}  
 
