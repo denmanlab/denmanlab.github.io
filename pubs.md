@@ -10,6 +10,14 @@ background-image: Figure 3_formatted.png
 {:.year}
 ### 2025
 {:.paper}
+<span>Myelin Supports Cortical Circuit Function Underlying Skilled Movement
+</span>{:.papertitle}  
+<span>Gagnon K, Nunes GDF, Nettles D, Nguyen T, Carter ER, Lins A, Williamson R, Lefebvre J,  **Denman DJ**, Hughes EG, Welle CG
+</span>{:.authors}  
+<span>bioRxiv. 2025 Dec 24</span>{:.journal}  
+<span>**DOI:** [10.64898/2025.12.23.696289](https://doi.org/10.64898/2025.12.23.696289)</span>{:.doi}  
+
+{:.paper}
 <span>Neural population dynamics of direct electrical stimulation of neocortex</span>{:.papertitle}  
 <span>Hickman J, Hughes G, Sahai E, Miles M, **Denman DJ**.</span>{:.authors}  
 <span>bioRxiv. 2025 Oct 29</span>{:.journal}  
