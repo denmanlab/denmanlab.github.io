@@ -10,6 +10,30 @@ background-image: Figure 3_formatted.png
 {:.year}
 ### 2025
 {:.paper}
+<span>Neural population dynamics of direct electrical stimulation of neocortex</span>{:.papertitle}  
+<span>Hickman J, Hughes G, Sahai E, Miles M, **Denman DJ**.</span>{:.authors}  
+<span>bioRxiv. 2025 Oct 29</span>{:.journal}  
+<span>**DOI:** [10.1101/2025.10.28.685195](https://doi.org/10.1101/2025.10.28.685195)</span>{:.doi}  
+
+{:.paper}
+<span>Separable neural population representations are constructed from mixed single neuron selectivity in the mouse early visual system</span>{:.papertitle}  
+<span>Santiago J, Garcia N, **Denman DJ**.</span>{:.authors}  
+<span>bioRxiv. 2025 Aug 30</span>{:.journal}  
+<span>**DOI:** [10.1101/2025.08.25.672226](https://doi.org/10.1101/2025.08.25.672226)</span>{:.doi}  
+
+{:.paper}
+<span>Uniform Distribution of Spectral Tuning in the Mouse Early Visual System</span>{:.papertitle}  
+<span>Santiago J, **Denman DJ**.</span>{:.authors}  
+<span>Journal of Vision 2025 Jul 15;25(9)</span>{:.journal}  
+<span>**DOI:** [https://doi.org/10.1167/jov.25.9.2546](https://jov.arvojournals.org/article.aspx?articleid=2809626)</span>{:.doi}  
+
+{:.paper}
+<span>Hebb’s Vision: The Structural Underpinnings of Hebbian Assemblies</span>{:.papertitle}  
+<span>  Wagner-Caren J, Kate S, Riordan T,  Abbasi-Asl R, Aman J, Amster A, Bodor AL,  Brittain D, Buchanan JA, Buice MA, Bumbarger DJ, Collman F, da Costa NM, **Denman DJ**, de Vries SEJ, Joyce E, Kapner D, King CW, Larkin JD, Lecoq J, Mahingam G, Millman D, Mölter J, Morrison C, Reid RC, Schneider-Mizell CM, Daniel S, Suckow S, Takasaki KT, Takeno M,Torres R, Vumbaco D, Waters J, Wyrick DG, Yin W, Zhuang J, Mihalas S, Berteau S</span>{:.authors}  
+<span>bioRxiv. 2025 May 23</span>{:.journal}  
+<span>**DOI:** [10.1101/2025.04.24.649900](https://doi.org/10.1101/2025.04.24.649900)</span>{:.doi}  
+
+{:.paper}
 <span>A bioelectric router for adaptive isochronous neurostimulation enables multipolar bioelectric stimulation from a single source</span>{:.papertitle}  
 <span>Sahai E, Hickman J, **Denman DJ**.</span>{:.authors}  
 <span>Sci Rep. 2025 Jul 4;15(1)</span>{:.journal}  
