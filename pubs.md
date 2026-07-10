@@ -8,6 +8,19 @@ background-image: Figure 3_formatted.png
 ---
 
 {:.year}
+### 2026
+{:.paper}
+<span>Neural population dynamics of direct electrical stimulation of neocortex</span>{:.papertitle}  
+<span>Hickman J, Hughes G, Sahai E, Miles M, Denman DJ.</span>{:.authors}  
+<span>Cell Reports</span>{:.journal}  
+<span>**DOI:** [10.1016/j.celrep.2026.117420](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00498-5)</span>{:.doi} 
+
+{:.paper}
+<span>Nonuniform spike count shared variability in the mouse early visual system</span>{:.papertitle}  
+<span>Hickman J, Moreno J S, Hughes G, Sahai E, Garcia N, Denman DJ.</span>{:.authors}  
+<span>Journal of Neurophysiology</span>{:.journal}  
+<span>**DOI:** [10.1152/jn.00382.2025](https://doi.org/10.1152/jn.00382.2025)</span>{:.doi} 
+
 ### 2025
 {:.paper}
 <span>Myelin Supports Cortical Circuit Function Underlying Skilled Movement
